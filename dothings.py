@@ -1,4 +1,4 @@
 def func(x):
     y = x**3
-    print("Franck did this!")
+    print("I cubed the thing!")
     return y
