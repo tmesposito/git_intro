@@ -1,4 +1,4 @@
 def func(x):
-    y = x**2
-    print("I squared the thing!")
+    y = x**3
+    print("I cubed the thing!")
     return y
